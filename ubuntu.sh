@@ -27,4 +27,3 @@ echo "-------------------------Install Node Successed---------------------------
 echo "Install Nrm"
 # sudo npm i -g nrm
 echo "-------------------------Install Nrm Successed----------------------------"
-echo "测试"
